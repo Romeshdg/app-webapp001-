@@ -1,6 +1,6 @@
 $resourceGroup = "exam-grp"
-$appName="webapp788788"
-$githubURL="https://github.com/alashro/webapp788788"
+$appName="app-webapp001"
+$githubURL="https://github.com/Romeshdg/app-webapp001.git"
 
 $PropertiesObject = @{
     repoUrl = $githubURL;
